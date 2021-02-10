@@ -1,0 +1,28 @@
+R.SK Lab Professional License
+
+Version 1.0, January 05, 2021
+
+Copyright © 2021-present R.SK Lab, Ltd., All Rights Reserved.
+
+PREAMBLE
+
+R.SK Lab Professional License is a modified version of the RPL-1.5
+license, which has been modified to allow users to use the licensed
+software in projects without open-sourcing them.
+
+LICENSE TERMS
+
+1.0 The R.SK Lab Professional license applies to all entities which
+have been granted "professional" status, and lasts for the duration 
+of their professional status.
+
+2.0 All terms of the Reciprocal Public License 1.5 (RPL-1.5) still apply,
+but with the following modifications:
+
+a. You are NOT required to disclose the projects publicly, which
+means that this professional license is perfect for application developers.
+
+b. You are encouraged, but NOT required, to contribute your software
+improvements and modifications back to the main repository.
+R.SK Lab would appreciate it, and may grant you free professional status
+if the contributions are high-quality.

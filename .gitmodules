@@ -1,0 +1,4 @@
+[submodule "Submodules/RSKCoreGraphics"]
+	path = Submodules/RSKCoreGraphics
+	url = https://github.com/rsk-lab/RSKCoreGraphics.git
+	branch = main
