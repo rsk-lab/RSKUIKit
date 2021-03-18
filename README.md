@@ -1,6 +1,6 @@
 ## RSKUIKit [![Swift 5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
-An addition to the UIKit framework. RSKUIKit provides: a) protocols that define the roles of objects, b) the type of object that represents bounds of the view, c) the type of object that represents a frame of the view, d) the type of object that converts layout attributes of the view from `.leftToRight` user interface layout direction to the specified one.
+An addition to the UIKit framework. RSKUIKit provides: a) protocols that define the roles of objects, b) the type of object that represents bounds of the view, c) the type of object that represents a frame of the view, d) the type of object that converts layout attributes of the view from `.leftToRight` user interface layout direction to the specified one, e) the type of object that represents changes to a collection of views.
 
 ## Installation
 
@@ -8,7 +8,7 @@ An addition to the UIKit framework. RSKUIKit provides: a) protocols that define 
 
 1.  Add the pod `RSKUIKit` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 
-        pod 'RSKUIKit', '1.0.0'
+        pod 'RSKUIKit', '1.1.0'
 
 2.  Run `pod install` from Terminal, then open your app's `.xcworkspace` file to launch Xcode.
 
