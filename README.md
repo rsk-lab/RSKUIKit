@@ -8,7 +8,7 @@ An addition to the UIKit framework. RSKUIKit provides: a) protocols that define 
 
 1.  Add the pod `RSKUIKit` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 
-        pod 'RSKUIKit', '1.1.0'
+        pod 'RSKUIKit', '1.2.0'
 
 2.  Run `pod install` from Terminal, then open your app's `.xcworkspace` file to launch Xcode.
 

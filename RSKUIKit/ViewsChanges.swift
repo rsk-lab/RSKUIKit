@@ -51,7 +51,7 @@ public struct ViewsChanges: ObjectProtocol {
     /// An array of `ViewInsertion` objects.
     public let viewInsertions: [ViewInsertion]
     
-    /// A array of `ViewMovement` objects.
+    /// An array of `ViewMovement` objects.
     public let viewMovements: [ViewMovement]
     
     /// A set of `ViewsSectionDeletion` objects.
